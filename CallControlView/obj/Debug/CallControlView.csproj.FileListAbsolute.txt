@@ -1,0 +1,6 @@
+C:\Users\apex\Documents\Visual Studio 2010\Projects\CallControlView\CallControlView\bin\Debug\CallControlView.dll
+C:\Users\apex\Documents\Visual Studio 2010\Projects\CallControlView\CallControlView\bin\Debug\CallControlView.pdb
+C:\Users\apex\Documents\Visual Studio 2010\Projects\CallControlView\CallControlView\obj\Debug\CallControlView.dll
+C:\Users\apex\Documents\Visual Studio 2010\Projects\CallControlView\CallControlView\obj\Debug\CallControlView.pdb
+C:\Users\apex\Documents\Visual Studio 2010\Projects\CallControlView\CallControlView\obj\Debug\CallControlView.Properties.Resources.resources
+C:\Users\apex\Documents\Visual Studio 2010\Projects\CallControlView\CallControlView\obj\Debug\CallControlView.csproj.GenerateResource.Cache

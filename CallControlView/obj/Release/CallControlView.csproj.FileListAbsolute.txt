@@ -1,0 +1,8 @@
+C:\Users\apex\AppData\Local\Temporary Projects\CallControlView\obj\Release\CallControlView.csprojResolveAssemblyReference.cache
+C:\Users\apex\documents\visual studio 2010\Projects\CallControlView\CallControlView\obj\Release\CallControlView.csprojResolveAssemblyReference.cache
+C:\Users\apex\documents\visual studio 2010\Projects\CallControlView\CallControlView\bin\Release\CallControlView.dll
+C:\Users\apex\documents\visual studio 2010\Projects\CallControlView\CallControlView\bin\Release\CallControlView.pdb
+C:\Users\apex\documents\visual studio 2010\Projects\CallControlView\CallControlView\obj\Release\CallControlView.dll
+C:\Users\apex\documents\visual studio 2010\Projects\CallControlView\CallControlView\obj\Release\CallControlView.pdb
+C:\Users\apex\Documents\Visual Studio 2010\Projects\CallControlView\CallControlView\obj\Release\CallControlView.Properties.Resources.resources
+C:\Users\apex\Documents\Visual Studio 2010\Projects\CallControlView\CallControlView\obj\Release\CallControlView.csproj.GenerateResource.Cache

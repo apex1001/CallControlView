@@ -1,0 +1,3 @@
+C:\Users\apex\documents\visual studio 2010\Projects\CallControlView\CallControlView\obj\Release\CallControlView.Properties.Resources.resources
+C:\Users\apex\documents\visual studio 2010\Projects\CallControlView\CallControlView\obj\Release\CTIclient.csproj.GenerateResource.Cache
+C:\Users\apex\documents\visual studio 2010\Projects\CallControlView\CallControlView\obj\Release\CallControlView.dll
